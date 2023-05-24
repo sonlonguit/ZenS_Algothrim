@@ -1,1 +1,1 @@
-# ZenS_Algothrim_Android
+# ZenS_Algothrim
